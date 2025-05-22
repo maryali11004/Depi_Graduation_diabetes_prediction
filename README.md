@@ -5,7 +5,6 @@
 
 This project aims to **predict the likelihood of diabetes in patients** using various machine learning models. It utilizes the **Pima Indians Diabetes Dataset** to build and evaluate supervised learning models for **binary classification** (diabetic vs. non-diabetic). The project includes data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation using metrics like **Accuracy** and **Recall**.
 
----
 
 ## 📂 Dataset
 
@@ -28,7 +27,6 @@ This project aims to **predict the likelihood of diabetes in patients** using va
 * Non-diabetic (0): 65.10%
 * Diabetic (1): 34.90%
 
----
 
 ## 🗂️ Project Structure
 
@@ -36,7 +34,6 @@ This project aims to **predict the likelihood of diabetes in patients** using va
 * `diabetes.csv`: Dataset file
 * `PE_diabetes.jpeg`: Output file (bar chart comparing model performance — Accuracy and Recall)
 
----
 
 ## 🔍 Methodology
 
@@ -71,7 +68,6 @@ This project aims to **predict the likelihood of diabetes in patients** using va
 * Generated a bar chart comparing model performance
 * Produced classification reports and confusion matrices
 
----
 
 ## ⚙️ Requirements
 
@@ -87,7 +83,6 @@ Or use a `requirements.txt`:
 pip install -r requirements.txt
 ```
 
----
 
 ## ▶️ How to Run
 
@@ -114,7 +109,6 @@ pip install -r requirements.txt
 
    * Evaluation results saved as `PE_diabetes.jpeg`
 
----
 
 ## 📊 Results
 
@@ -130,19 +124,13 @@ Model performance is summarized below (example values; update with actual output
 | Random Forest | \~84%    |
 | GBDT          | \~85%    |
 
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.
 
----
 
 ## 🙏 Acknowledgments
 
-* Dataset from **UCI Machine Learning Repository**
+* Dataset from **Kaggle**
 * Libraries used: **Scikit-learn, Pandas, XGBoost**, and others from the open-source community
-
----
-
-Let me know if you'd like this saved as a `README.md` file.
