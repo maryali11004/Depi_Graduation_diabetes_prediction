@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project aims to **predict the likelihood of diabetes in patients** using various machine learning models. It utilizes the **Pima Indians Diabetes Dataset** to build and evaluate supervised learning models for **binary classification** (diabetic vs. non-diabetic). The project includes data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation using metrics like **Accuracy** and **Recall**.
+This project aims to **predict the likelihood of diabetes in patients** using various machine learning models. It utilizes the **Pima Indians Diabetes Dataset** to build and evaluate supervised learning models for **binary classification** (diabetic vs. non-diabetic). The project includes data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation using  **Accuracy** .
 
 
 ## 📂 Dataset
